@@ -60,4 +60,4 @@ El bloque NLP busca primero `Microsoft_AR2021.html`. Si no encuentra el archivo,
 | SciPy | Matriz dispersa y similitud del texto |
 | BeautifulSoup | Extracción de párrafos del reporte anual |
 
-Septiembre de 2026
+(Septiembre de 2026)
