@@ -1,12 +1,12 @@
 # Predicción de acciones de Microsoft
 
-Proyecto de Trbajo Final de Machine Learning que analiza el historial de las acciones de Microsoft y clasifica si el cierre de la siguiente jornada subirá o no. También incluye un análisis NLP del reporte anual 2021 de Microsoft.
+Proyecto de Trabajo Final de Machine Learning que analiza el historial de las acciones de Microsoft y clasifica si el cierre de la siguiente jornada subirá o no. También incluye un análisis NLP del reporte anual 2021 de Microsoft.
 
 ## Archivos necesarios
 
 Coloca en una misma carpeta:
 
-- `Microsoft_Machine_Learning_V2.ipynb`
+- `Microsoft_Machine_Learning.ipynb`
 - `MSFT.csv`
 - `Microsoft_AR2021.html` *(opcional, para ejecutar NLP sin internet)*
 
@@ -60,4 +60,4 @@ El bloque NLP busca primero `Microsoft_AR2021.html`. Si no encuentra el archivo,
 | SciPy | Matriz dispersa y similitud del texto |
 | BeautifulSoup | Extracción de párrafos del reporte anual |
 
-Este proyecto tiene fines educativos. Sus predicciones no garantizan resultados de inversión.
+Septiembre de 2026
